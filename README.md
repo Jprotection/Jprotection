@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Jprotection's%20GITHUB)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9DA4F7&width=435&lines=Java+Spring+MySQL+Let's+go!)](https://git.io/typing-svg)
 
 ## 🎏Activities
