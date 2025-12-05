@@ -1,17 +1,27 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9DA4F7&width=435&lines=Java+Spring+MySQL+Let's+go!)](https://git.io/typing-svg)
 
-## 🎏Activities
-2024/07/01 ~ 2024/12/17  CNU-NHN SOFTWARE ACADEMY
+## 👨‍💻 I’m currently working on ...
+2025/09 ~   Iansystem
 
-## ✏️I'm studying...
-<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+## 🎏 Activities
+2024/07 ~ 2024/12  CNU-NHN SOFTWARE ACADEMY  
 
-## 🙋TODO...
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> 
 
-## 📝Stats
+## 🤹 My skills are...
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)  
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+## 🏃‍♂️ I'm studying...
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+## 📰 Toy projects...
+https://github.com/Jprotection/lotto-number-generator
+
+<!-- ## 📝Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jprotection)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 
 <!--
 **Jprotection/Jprotection** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
